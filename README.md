@@ -66,4 +66,28 @@ Attending DevSecCon 2025 reinforced that:
 
 - Security needs to evolve **at the same pace as AI innovation**.  
 - Developers are now working not just with code — but with **agents, models, and data pipelines** that must be secured from design to runtime.  
-- Hands-on challenges like the AI Security Developers Challenge are key to building real-wo
+- Hands-on challenges like the AI Security Developers Challenge are key to building real-world defensive expertise.  
+- The community’s openness and collaboration are what make DevSecCon special.
+
+---
+
+## 📚 Next Steps
+
+- 🔎 **Follow up** on the AI Challenge winners when Snyk releases them.  
+- 🧩 **Rewatch** recorded sessions, especially those on agentic AI security and AI red-teaming.  
+- 🧠 **Adopt learnings** in your DevSecOps pipelines (secure prompts, runtime scanning, agent guardrails).  
+- 🌐 **Join** your local [DevSecCon chapter](https://snyk.io/blog/devseccon-2025-recap-securing-the-ai-revolution-together/?utm_source=chatgpt.com) to stay connected with the community.  
+
+---
+
+## 📄 References
+- [Snyk DevSecCon 2025 Recap Blog](https://snyk.io/blog/devseccon-2025-recap-securing-the-ai-revolution-together/?utm_source=chatgpt.com)  
+- [Event Homepage](https://snyk.brandlive.com/DevSecCon25/en/home)  
+- [Snyk DevSecCon Events](https://snyk.io/events/devseccon/?utm_source=chatgpt.com)
+
+---
+
+### ✍️ Author
+*This write-up was prepared by an attendee of DevSecCon 2025 to summarize key takeaways and community highlights for GitHub documentation.*
+
+---
